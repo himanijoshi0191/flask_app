@@ -15,7 +15,7 @@ Flask Restful API (Create, Read, Update, Delete)
 * venv\Scripts\activate(windows)
 
 ## Installation and running:
-* cd flask_json_responce\test_api
+* cd flask_json_responce\json_api
 * python -m pip install --upgrade pip
 * pip install -r requirements.txt
 * python manage.py
